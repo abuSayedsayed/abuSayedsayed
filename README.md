@@ -41,6 +41,6 @@ Skills: EXPRESS JS / NODE.JS / REACT / JS / BOOTSTRAP / CSS / HTML /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuSayedsayed)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hablu-programmer&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abuSayedsayed&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abuSayedsayed)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abuSayedsayed)  
