@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-sayed&label=Profile%20views&color=0e75b6&style=flat" alt="abu-sayed" /> </p>
 
-- 🌱 I’m currently learning **React JS And Then Node JS**
+- 🌱 I’m currently learning **React JS And Then Node I Will learn JS**
 
 - 👨‍💻 All of my projects are available at [https://abusayedsayed.github.io/My-Portfolio-You-Can-Visit](https://abusayedsayed.github.io/My-Portfolio-You-Can-Visit)
 
